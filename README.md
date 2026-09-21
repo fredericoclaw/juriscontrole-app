@@ -1,2 +1,3 @@
-# juriscontrole-app
-Artefato compilado do JurisControle para publicação externa
+# JurisControle
+
+Artefato compilado para publicação externa. O Supabase permanece como backend privado.
