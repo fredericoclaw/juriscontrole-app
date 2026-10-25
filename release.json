@@ -1,0 +1,12 @@
+{
+  "application": "JurisControle",
+  "release_id": "20261025T172248Z-358def46",
+  "source_commit": "358def464d2427b220611202b8fc9c2e32f6df7b",
+  "built_at_utc": "2026-10-25T17:22:48.383885+00:00",
+  "schema_migration": "202610250018",
+  "function_source_sha256": "6c8048d00b80e9730200c033fbc25ee08c41f09a38fa0b149a2a185dd35ea023",
+  "archive_sha256": "acfa16563a529b515feee6cdd9d02371147281cafa1d932c8860e6641e5da07a",
+  "archive_git_blob_sha": "02b2e7b4dce7e80dc2416f86e1040fb83547ee21",
+  "archive_bytes": 201007,
+  "files": 24
+}
